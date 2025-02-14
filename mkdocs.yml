@@ -1,0 +1,8 @@
+site_name: Troussse ti pour les Attestations
+theme:
+  name: material
+  language: fr
+
+nav:
+  - Accueil: index.md
+  - Guide: guide.md 
