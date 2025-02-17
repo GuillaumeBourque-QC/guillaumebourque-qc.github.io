@@ -22,8 +22,6 @@ theme:
 
 nav:
   - Accueil: index.md
-    - Gouvernance: gouvernance/index.md
-    - Attestations: attestations/index.md
   - Gouvernance:
     - Gouvernance: gouvernance/index.md
     - Définitions: gouvernance/definitions.md
