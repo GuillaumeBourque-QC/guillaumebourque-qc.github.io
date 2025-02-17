@@ -1,4 +1,7 @@
-site_name: Troussse ti pour les Attestations
+site_name: Troussse TI pour les Attestations
+repo_url: https://github.com/GuillaumeBourque-QC/trousse-TI
+repo_name: GuillaumeBourque-QC/trousse-TI
+
 theme:
   name: material
   language: fr
