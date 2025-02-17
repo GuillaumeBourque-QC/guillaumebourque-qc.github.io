@@ -2,7 +2,29 @@ site_name: Troussse ti pour les Attestations
 theme:
   name: material
   language: fr
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+  palette:
+    - scheme: default
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Basculer en mode sombre
+    - scheme: slate
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Basculer en mode clair
 
 nav:
   - Accueil: index.md
-  - Guide: guide.md 
+  - Attestations:
+    - attestations/index.md
+    - Formulaires: attestations/formulaires.md
+  - Guide:
+    - guide/index.md
+    - Installation: guide/installation.md 
