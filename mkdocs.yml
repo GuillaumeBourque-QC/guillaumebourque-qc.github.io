@@ -22,6 +22,9 @@ theme:
 
 nav:
   - Accueil: index.md
+  - Gouvernance:
+    - Définitions: gouvernance/definitions.md
+    - Réglementation: gouvernance/reglementation.md
   - Attestations:
     - attestations/index.md
     - Formulaires: attestations/formulaires.md
