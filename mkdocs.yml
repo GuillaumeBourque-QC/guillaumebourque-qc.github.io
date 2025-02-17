@@ -23,11 +23,14 @@ theme:
 nav:
   - Accueil: index.md
   - Gouvernance:
+    - Gouvernance: gouvernance/index.md
     - Définitions: gouvernance/definitions.md
     - Réglementation: gouvernance/reglementation.md
+    - Collaboration: gouvernance/collaboration.md
   - Attestations:
-    - attestations/index.md
-    - Formulaires: attestations/formulaires.md
+    - Attestations: attestations/index.md
+    - Emetteurs: attestations/emetteur.md
+    - Vérificateurs: attestations/verificateur.md
   - Guide:
     - guide/index.md
     - Installation: guide/installation.md 
