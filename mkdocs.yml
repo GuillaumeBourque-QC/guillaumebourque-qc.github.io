@@ -31,6 +31,3 @@ nav:
     - Attestations: attestations/index.md
     - Emetteurs: attestations/emetteur.md
     - Vérificateurs: attestations/verificateur.md
-  - Guide:
-    - guide/index.md
-    - Installation: guide/installation.md 
