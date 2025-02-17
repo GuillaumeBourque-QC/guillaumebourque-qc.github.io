@@ -1,3 +1,3 @@
-# Attestations
+# Emetteur
 
-Description de la section attestations.
+Documentation des requis techniques pour un emetteur.

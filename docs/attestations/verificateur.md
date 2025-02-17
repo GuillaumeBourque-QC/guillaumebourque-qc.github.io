@@ -1,11 +1,4 @@
-# Attestations
+# Vérificateur
 
-Description de la section attestations.
+Documentation des requis techniques pour un vérificateur.
 
-## Vérificateur
-
-Description de la section vérificateur.
-
-## Emetteur
-
-Description de la section emetteur.
